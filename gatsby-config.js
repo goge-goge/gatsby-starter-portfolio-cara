@@ -7,14 +7,14 @@ module.exports = {
     // You can overwrite values here that are used for the SEO component
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitle: `Cara`,
-    siteTitleAlt: `Cara - Gatsby Starter Portfolio`,
-    siteHeadline: `Cara - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://cara.lekoarts.de`,
-    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteTitle: `Foodles`,
+    siteTitleAlt: `Foodles - Mexican Doodle Art`,
+    siteHeadline: `Foodles - Mexican Doodle Art`,
+    siteUrl: `https://foodles.gw.to`,
+    siteDescription: `A team of Mexican artists and ex-Cubobit programmers prepares to enter the Xoodles universe !!`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@foodles_NFT`,
   },
   plugins: [
     {
@@ -25,9 +25,9 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Cara - @lekoarts/gatsby-theme-cara`,
+        name: `@lekoarts/gatsby-theme-cara`,
         short_name: `Cara`,
-        description: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+        description: `A team of Mexican artists and ex-Cubobit programmers prepares to enter the Xoodles universe !!`,
         start_url: `/`,
         background_color: `#141821`,
         // This will impact how browsers show your PWA/website
